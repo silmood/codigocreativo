@@ -1,0 +1,8 @@
+
+// Inicializar configuraciones del dibujo
+void setup() {
+}
+
+// 60 veces por segundo
+void draw() {
+}
